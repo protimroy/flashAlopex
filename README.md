@@ -1,7 +1,7 @@
 # FlashAlopex (CUDA-only)
 
 FlashAlopex: a fused CUDA implementation of the Alopex optimizer (stochastic correlation-based updates).
-This repo provides a CUDA kernel + PyTorch extension + experiments (XOR, MNIST Logistic, CIFAR-10 CNN).
+This repo provides a CUDA kernel + PyTorch extension + experiments.
 
 ## Quickstart
 
